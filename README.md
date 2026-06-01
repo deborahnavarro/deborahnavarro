@@ -8,7 +8,7 @@ One focus right now is the integration layer: the infrastructure that lets AI ag
 
 ## What I'm building
 
-**At Barndoor** — Shipping integrations end-to-end and keeping them running across the core product.
+**At Barndoor** — Shipping integrations end-to-end and keeping them running.
 
 - Integration lifecycle: spec → build → test → deploy → monitor, turning one-off work into repeatable process
 - Developer experience: docs, marketplace presence, and the customer conversations and field work that keep it grounded
