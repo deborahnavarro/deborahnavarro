@@ -12,7 +12,7 @@ Right now that's the integration layer: the infrastructure that lets AI agents a
 
 - Integration lifecycle: spec → build → test → deploy → monitor, turning heroic one-off work into repeatable process
 - Developer experience: docs, marketplace presence, and the customer conversations and field work that keep it grounded
-- Go-to-market: the work that helps Barndoor get discovered, positioned, and grow
+- Go-to-market: the work that helps Barndoor get discovered, positioned and growing rapidly. 
 - Agent eval: systematic testing of whether AI actually selects and uses the right tools
 
 **Personally** — building towards a fleet of personal agents that can handle all of my workflows. 
