@@ -1,4 +1,4 @@
-# Deb Navarro
+# Deborah Navarro
 
 I work on the MCP layer at [Barndoor AI](https://barndoor.ai) — the infrastructure that lets AI agents actually *do things* in enterprise software. 
 
