@@ -23,7 +23,7 @@ Right now that's the integration layer: the infrastructure that lets AI agents a
 | Repo | What it is |
 |------|-----------|
 | [hidden-gem](https://github.com/deborahnavarro/Hidden-Gem) | AI agent that predicts Broadway breakouts by detecting pre-transfer signals (Claude + ClickHouse + Nimble) |
-| [mcp-patterns](https://github.com/deborahnavarro/mcp-patterns) | Spec templates and patterns from building MCP integrations | Ask for access. 
+| mcp-patterns *(private — request access)* | Spec templates and patterns from building MCP integrations |
 
 ---
 
