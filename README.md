@@ -10,7 +10,7 @@ One focus right now is the integration layer: the infrastructure that lets AI ag
 
 **At Barndoor** — Shipping integrations end-to-end and building the product surface around them.
 
-- Integration lifecycle: spec → build → test → deploy → monitor, turning heroic one-off work into repeatable process
+- Integration lifecycle: spec → build → test → deploy → monitor, turning one-off work into repeatable process
 - Developer experience: docs, marketplace presence, and the customer conversations and field work that keep it grounded
 - Go-to-market: the work that helps Barndoor get discovered, positioned and growing rapidly. 
 - Agent eval: systematic testing of whether AI actually selects and uses the right tools
