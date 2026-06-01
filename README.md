@@ -1,19 +1,19 @@
 # Deborah Navarro
 
-I work on the MCP layer at [Barndoor AI](https://barndoor.ai) — the infrastructure that lets AI agents actually *do things* in enterprise software. 
+First hire at [Barndoor AI](https://barndoor.ai). I work across strategy, product, operations, and marketing — whatever the company needs most at any given moment.
 
-Right now that means: shipping integrations across 60+ services (Salesforce, Slack, Google Workspace, Microsoft 365, and counting), building the tooling and process that makes each one go from spec to production and turning that operational pattern into something repeatable and scalable.
+Right now that's the integration layer: the infrastructure that lets AI agents actually *do things* in enterprise software, not just talk about it. I own the end-to-end lifecycle for 60+ service connectors — from spec to production — and the product surface built around them.
 
 ---
 
 ## What I'm building
 
-**At Barndoor** — The end-to-end practice of shipping MCP servers at scale.
+**At Barndoor** — Shipping integrations end-to-end and building the product surface around them.
 
-- Designing the integration lifecycle (spec → build → test → deploy → monitor)
-- Building the docs, marketplace presence, and developer experience around Barndoor's connector catalog
-- Defining how AI agents discover, evaluate, and call tools across  server catalog
-- Running agent eval: systematic testing of whether AI actually uses the right tools
+- Integration lifecycle: spec → build → test → deploy → monitor, turning heroic one-off work into repeatable process
+- Developer experience: docs, marketplace presence, and the onboarding story for new connectors
+- Go-to-market for the connector catalog — how it's discovered, positioned, and grows
+- Agent eval: systematic testing of whether AI actually selects and uses the right tools
 
 **Personally** — building towards a fleet of personal agents that can handle all of my workflows. 
 ---
