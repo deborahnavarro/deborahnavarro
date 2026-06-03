@@ -1,6 +1,6 @@
 # Deborah Navarro
 
-Founder and first hire at [Barndoor AI](https://barndoor.ai). I work across strategy, product, operations and marketing — whatever the company needs most at any given moment or all at once :laughing:
+First hire at [Barndoor AI](https://barndoor.ai). I work across strategy, product, operations and marketing — whatever the company needs most at any given moment or all at once :laughing:
 
 One focus right now is the integration layer: the infrastructure that lets AI agents actually *do things* in enterprise software. I manage the end-to-end lifecycle for 60+ service connectors — from spec to production — and making sure they work across the core product.
 
