@@ -1,8 +1,8 @@
 # Deborah Navarro
 
-First hire at [Barndoor AI](https://barndoor.ai). I work across strategy, product, operations and marketing — whatever the company needs most at any given moment or all at once :laughing:
+First hire at [Barndoor AI](https://barndoor.ai). I work across strategy, product, operations and marketing — whatever the company needs most at any given moment and all at once ^*
 
-One focus right now is the integration layer: the infrastructure that lets AI agents actually *do things* in enterprise software. I manage the end-to-end lifecycle for 60+ service connectors — from spec to production — and making sure they work across the core product.
+One focus right now is the integration layer: the infrastructure that lets AI agents *do things* in enterprise software. I manage the end-to-end lifecycle for 60+ service connectors — from spec to production — and making sure they work across the core product.
 
 ---
 
@@ -15,21 +15,12 @@ One focus right now is the integration layer: the infrastructure that lets AI ag
 - Go-to-market: the work that helps Barndoor get discovered, positioned and growing rapidly. 
 - Agent eval: systematic testing of whether AI actually selects and uses the right tools.
 
-**Personally** — building towards a fleet of personal agents that can handle all of my workflows. 
----
-
-## Featured
-
-| Repo | What it is |
-|------|-----------|
-| [hidden-gem](https://github.com/deborahnavarro/Hidden-Gem) | AI agent that predicts Broadway breakouts by detecting pre-transfer signals (Claude + ClickHouse + Nimble) |
-| mcp-patterns *(private — request access)* | Spec templates and patterns from building MCP integrations |
-
+**Personally** — building towards a fleet of .... ask me irl.  
 ---
 
 ## Stack I work in
 
-`MCP` `Claude API` `FastAPI` `Python` `TypeScript` `ClickHouse` `Kubernetes` `GitHub Actions`
+`MCP` `Claude API` `FastAPI` `Python` `TypeScript` `ClickHouse` `Kubernetes` `GitHub Actions` `HTML/CSS` 
 
 ---
 
