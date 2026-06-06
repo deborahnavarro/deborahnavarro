@@ -15,7 +15,7 @@ One focus right now is the integration layer: the infrastructure that lets AI ag
 - Go-to-market: the work that helps Barndoor get discovered, positioned and growing rapidly. 
 - Agent eval: systematic testing of whether AI actually selects and uses the right tools.
 
-**Personally** — building towards a fleet of .... ask me irl.  
+**Personally** — unto robotics and building towards a fleet of .... ask me irl.  
 ---
 
 ## Stack I work in
